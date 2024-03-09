@@ -1,3 +1,5 @@
+Hi! A bit about me...
+
 I have a background equally grounded in code, design and law -- and my current interests are split between three main areas (with a little cross-over):
 
   1) The computational modelling of legal theory and the law.
